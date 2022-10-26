@@ -1,0 +1,21 @@
+.places {
+    min-height: 100vh;
+}
+
+@media screen and (max-width: 1152px){
+    .places{
+        min-height: 3292px;
+    }
+}
+
+@media screen and (max-width: 896px){
+    .places{
+        min-height: 2808px;
+    }  
+}
+
+@media screen and (max-width: 544px){
+    .places{
+        min-height: 5177px;
+    }
+}
