@@ -1,7 +1,7 @@
 .place {
     display: grid;
     grid-template-columns: 1fr, 1fr;
-    grid-template-rows: minmax(min-content, max-content)  minmax(min-content, max-content) ;
+    grid-template-rows: minmax(min-content, max-content)  minmax(min-content, max-content);
     gap:48px 40px;
     grid-template-areas: 
     "title url"
@@ -26,8 +26,7 @@
 @media screen and (max-width: 544px){
   .place {
     grid-template-columns: 1fr;
-    grid-template-rows: repeat(6 minmax(min-content, max-content)) ;
-    gap:48px 40px;
+    grid-template-rows: repeat(6 minmax(min-content, max-content));
     grid-template-areas: 
     "title"
     "url"
