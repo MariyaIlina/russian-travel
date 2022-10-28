@@ -1,23 +1,26 @@
 .photo-grid__item{
-    min-height: 213px;
-    max-width: 284px;
-        
+  min-height: 213px;
+  max-width: 284px;
+	object-fit: contain;
 }
+
 @media screen and (max-width: 1152px) {
-    .photo-grid__item{
-        min-height: 225px;
-        max-width: 300px;
-    }
+  .photo-grid__item{
+    min-height: 225px;
+    max-width: 300px;
+  }
 }
+
 @media screen and (max-width: 896px) {
-    .photo-grid__item{
-        min-height: 264px;
-        max-width: 352px;
-    }
+  .photo-grid__item{
+    min-height: 264px;
+    max-width: 352px;
+  }
 }
+
 @media screen and (max-width: 544px) {
-    .photo-grid__item{
-        min-height: 216px;
-        max-width: 288px;
-    }
+  .photo-grid__item{
+    min-height: 216px;
+    max-width: 288px;
+  }
 }

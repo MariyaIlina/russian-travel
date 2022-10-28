@@ -1,0 +1,22 @@
+.root__content{
+  padding: 0 48px;
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;  
+}
+@media  screen and (max-width: 896px) {
+  .root__content {
+    grid-row-gap: 88px;}
+}
+
+@media  screen and (max-width: 544px) {
+  .root__content {
+    grid-row-gap: 64px;
+  }
+}
+@media screen and (max-width: 1152px) {
+  .root__content {
+    padding:0;
+  }
+}
