@@ -8,10 +8,6 @@
   text-decoration: none;
 }
 
-.footer__link {
-  font-style: normal;
-}
-
 @media screen and (max-width: 544px) {
   .footer__link {
     font-size: 24px;
