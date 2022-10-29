@@ -1,11 +1,10 @@
 .intro__text {
-	font-style: normal;
-	font-weight: 400;
-	font-size: 16px;
-	line-height: 163%;
-	margin-top: 40px;
-	margin-bottom: 33px;
-	box-sizing: border-box;
-	max-width: 690px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 163%;
+  margin-top: 40px;
+  margin-bottom: 33px;
+  box-sizing: border-box;
+  max-width: 690px;
 }
-

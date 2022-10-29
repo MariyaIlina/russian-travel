@@ -12,15 +12,15 @@
   .root__footer {
     max-width: 720px;
     margin: 0 24px;
-	}
-} 
+  }
+}
 
 @media screen and (max-width: 544px) {
-    .root__footer {
-        max-width: 186px;
-        margin: 0;
-        flex-direction: column;
-        justify-content: start;
-        display: flex;
-    }
+  .root__footer {
+    max-width: 186px;
+    margin: 0;
+    flex-direction: column;
+    justify-content: start;
+    display: flex;
+  }
 }

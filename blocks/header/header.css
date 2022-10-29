@@ -3,12 +3,11 @@
   flex-direction: row;
   justify-content: space-between;
   min-height: 52px;
-    
+
 }
 
-@media screen and (max-width: 544px){
+@media screen and (max-width: 544px) {
   .header {
     min-height: 42px;
-	}
- }
- 
+  }
+}

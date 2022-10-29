@@ -1,25 +1,25 @@
-.content{
+.content {
   display: grid;
   grid-row-gap: 92px;
   margin-top: 56px;
   margin-bottom: 92px;
 }
 
-@media screen and (max-width: 1152px){
-  .content{
+@media screen and (max-width: 1152px) {
+  .content {
     margin-top: 48px;
   }
 }
 
-@media screen and (max-width: 896px){
-  .content{
+@media screen and (max-width: 896px) {
+  .content {
     margin-bottom: 88px;
     grid-row-gap: 88px;
   }
 }
 
-@media screen and (max-width: 544px){
-  .content{
+@media screen and (max-width: 544px) {
+  .content {
     margin-top: 48px;
     margin-bottom: 64px;
     grid-row-gap: 64px;
