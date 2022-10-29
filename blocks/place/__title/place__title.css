@@ -1,4 +1,4 @@
-.place__title{
+.place__title {
 	max-width: 460px;
 	font-style: normal;
 	font-weight: 900;
@@ -16,7 +16,7 @@
   }
 }
 @media screen and (max-width: 896px){
-	.place__title {
+    .place__title {
     max-width: 330px;
     font-size: 42px;
     line-height: 46px;

@@ -1,9 +1,9 @@
-.place__paragraph-text{
+.place__paragraph-text {
   margin-bottom: 26px;
   margin-top: 0;
 }
 
-.place__paragraph-text:last-child{
+.place__paragraph-text:last-child {
   margin-bottom: 0;
 }
 @media screen and (max-width: 896px) {

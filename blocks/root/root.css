@@ -1,4 +1,4 @@
-.root{
+.root {
   background-color: #2A2C2F;
   max-width: 1280px;
   min-width: 320px;
@@ -15,19 +15,19 @@
 }
 
 @media screen and (max-width: 1152px){
-  .root{
+  .root {
     max-width:  1024px; 
   }
 }
 
 @media screen and (max-width: 896px){
-  .root{
+  .root {
     max-width:  768px; 
   }
 }
 
 @media screen and (max-width: 544px){
-  .root{
+  .root {
     max-width: 320px;
     padding: 16px 0 24px;
   }

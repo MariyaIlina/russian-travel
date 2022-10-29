@@ -1,28 +1,28 @@
-.root__place{
+.root__place {
   max-width: 984px;
   box-sizing: border-box;
   margin-bottom: 80px;
 }
 
-.root__place:last-child{
+.root__place:last-child {
   margin-bottom: 0;
 }
 
 @media  screen and (max-width: 1152px) {
-  .root__place{
+  .root__place {
     max-width: 928px;
     }
 }
 
   @media  screen and (max-width: 896px) {
-    .root__place{
+    .root__place {
       max-width: 720px;
       margin-bottom: 72px;
     }
   }
 
   @media  screen and (max-width: 544px) {
-    .root__place{
+    .root__place {
       max-width: 320px;
       margin-bottom: 50px;
     }

@@ -17,10 +17,10 @@
 
 @media screen and (max-width: 544px) {
     .root__footer {
-			max-width: 186px;
-			margin: 0;
-			flex-direction: column;
-			justify-content: start;
-			display: flex;
+        max-width: 186px;
+        margin: 0;
+        flex-direction: column;
+        justify-content: start;
+        display: flex;
     }
 }
