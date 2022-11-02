@@ -1,6 +1,7 @@
 .root__places {
   margin: 0 auto;
   max-width: 984px;
+  
 }
 
 @media screen and (max-width: 1152px) {
