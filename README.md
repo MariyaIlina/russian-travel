@@ -12,3 +12,4 @@
 Ссылка на сайт 
 https://mariyailina.github.io/russian-travel/index.html
 
+В ближайшее время планируется добавить версию сайта на английском языке.
