@@ -9,6 +9,6 @@
 - flex, 
 - grid layout. 
   
-Ссылка на проект в Github
+Ссылка на сайт 
 https://mariyailina.github.io/russian-travel/index.html
 
